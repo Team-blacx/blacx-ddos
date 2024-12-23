@@ -12,7 +12,7 @@
 
 ![Alt text](https://github.com/user-attachments/assets/98ee0bc9-f0d6-4143-8382-242f8a6bc7a8)
 
-# **Blacx DDoS Tool** (Educational Purposes Only) [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)
+# **Blacx DDoS Tool** (Educational Purposes Only) [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) ![Trial](https://img.shields.io/badge/Trial_version-red?style=for-the-badge&logo=tor&logoColor=black)
 
 Welcome to the **Blacx DDoS Tool**! This tool is designed for **educational purposes only** to demonstrate basic DDoS attack simulations in a controlled environment. 
 
