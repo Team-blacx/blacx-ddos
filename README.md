@@ -8,24 +8,6 @@ Welcome to the **Blacx DDoS Tool**! This tool is designed for **educational purp
 
 ---
 
-## **Table of Contents**
-
-<a href="#overview" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">Overview</a>
-
-<a href="#features" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">Features</a>
-
-<a href="#installation" style="display: inline-block; background-color: #f44336; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">Installation</a>
-
-<a href="#usage" style="display: inline-block; background-color: #FF9800; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">Usage</a>
-
-<a href="#requirements" style="display: inline-block; background-color: #9C27B0; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">Requirements</a>
-
-<a href="#important-notes" style="display: inline-block; background-color: #3F51B5; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">Important Notes</a>
-
-<a href="#disclaimer" style="display: inline-block; background-color: #E91E63; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">Disclaimer</a>
-
----
-
 ## **Overview**
 
 The **Blacx DDoS Tool** simulates a **Distributed Denial-of-Service (DDoS)** attack by sending a large number of HTTP requests to a target server. It uses threading to simulate multiple devices making requests concurrently.
@@ -61,6 +43,8 @@ To get started, follow the installation steps below.
 
 ```bash
 git clone https://github.com/Team-blacx/blacx-ddos.git
-cd blacx-ddos-tool
+cd blacx-ddos
+pip3 install -r requirements.txt
 chmod +x setup.sh
 sudo ./setup.sh
+sudo python3 ddos.py
