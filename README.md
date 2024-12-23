@@ -2,8 +2,6 @@
 
 # **Blacx DDoS Tool** (Educational Purposes Only)
 
-
-
 Welcome to the **Blacx DDoS Tool**! This tool is designed for **educational purposes only** to demonstrate basic DDoS attack simulations in a controlled environment. 
 
 ---
