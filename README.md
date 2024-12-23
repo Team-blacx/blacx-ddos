@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/user-attachments/assets/98ee0bc9-f0d6-4143-8382-242f8a6bc7a8)
 
-# **Blacx DDoS Tool** (Educational Purposes Only)
+# **Blacx DDoS Tool** (Educational Purposes Only) [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)
 
 Welcome to the **Blacx DDoS Tool**! This tool is designed for **educational purposes only** to demonstrate basic DDoS attack simulations in a controlled environment. 
 
@@ -23,8 +23,8 @@ This tool is **only for educational purposes** and should **not** be used for an
 
 ---
 
-## **Supported Devices**
-- **Operating Systems**: Windows and Linux
+![Supported Devices](https://img.shields.io/badge/Supported%20Devices-red)
+- **Operating Systems**: [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 - **Minimum Hardware Requirements**:
   - 4 GB of RAM
   - Dual-core processor (or higher)
@@ -34,7 +34,7 @@ This tool is **only for educational purposes** and should **not** be used for an
 
 ---
 
-## **Installation**
+![Installation](https://img.shields.io/badge/Installation-blue)
 
 To get started, follow the installation steps below.
 
@@ -58,3 +58,7 @@ pip3 install -r requirements.txt
 ```bash
 sudo python3 ddos.py
 ```
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
