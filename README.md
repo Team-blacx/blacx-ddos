@@ -1,4 +1,8 @@
-![Team-Blacx](https://img.shields.io/badge/Github.com/Team--Blacx/Blacx--ddos-purple?style=for-the-badge&logo=hyper&logoColor=white)
+![Team-Blacx](https://img.shields.io/badge/https://github.com/Team--blacx/Blacx--ddos-🌐-orange)
+
+
+
+
 
 
 
@@ -12,7 +16,7 @@
 
 ![Alt text](https://github.com/user-attachments/assets/98ee0bc9-f0d6-4143-8382-242f8a6bc7a8)
 
-# **Blacx DDoS Tool** (Educational Purposes Only) [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) ![Trial](https://img.shields.io/badge/Trial_version-red?style=for-the-badge&logo=tor&logoColor=black)
+# **Blacx DDoS Tool** (Educational Purposes Only) [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) ![Trial](https://img.shields.io/badge/Trial-version-orange)
 
 Welcome to the **Blacx DDoS Tool**! This tool is designed for **educational purposes only** to demonstrate basic DDoS attack simulations in a controlled environment. 
 
@@ -35,7 +39,7 @@ This tool is **only for educational purposes** and should **not** be used for an
 
 ---
 
-![Supported Devices](https://img.shields.io/badge/Supported%20Devices-red)
+![Supported Devices](https://img.shields.io/badge/Supported-Devices-red)
 - **Operating Systems**: [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 - **Minimum Hardware Requirements**:
   - 4 GB of RAM
@@ -66,7 +70,7 @@ sudo ./setup.sh
 ```bash
 pip3 install -r requirements.txt
 ```
-# **Run**
+![Run](https://img.shields.io/badge/Run-_-red)
 ```bash
 sudo python3 ddos.py
 ```
