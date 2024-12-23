@@ -37,12 +37,23 @@ This tool is **only for educational purposes** and should **not** be used for an
 
 To get started, follow the installation steps below.
 
-### **Step 1: Clone the Repository**
 
 ```bash
 git clone https://github.com/Team-blacx/blacx-ddos.git
+```
+```bash
 cd blacx-ddos
+```
+```bash
 pip3 install -r requirements.txt
+```
+```bash
 chmod +x setup.sh
+```
+```bash
 sudo ./setup.sh
+```
+# **Run**
+```bash
 sudo python3 ddos.py
+```
