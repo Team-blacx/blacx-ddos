@@ -30,6 +30,7 @@ This tool is **only for educational purposes** and should **not** be used for an
   - Dual-core processor (or higher)
   - No dedicated graphics card required
   - 1 GB of free disk space
+  - Internet speed 20MB/s (or higher)
 
 ---
 
@@ -45,13 +46,13 @@ git clone https://github.com/Team-blacx/blacx-ddos.git
 cd blacx-ddos
 ```
 ```bash
-pip3 install -r requirements.txt
-```
-```bash
 chmod +x setup.sh
 ```
 ```bash
 sudo ./setup.sh
+```
+```bash
+pip3 install -r requirements.txt
 ```
 # **Run**
 ```bash
