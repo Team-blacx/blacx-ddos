@@ -1,3 +1,15 @@
+![Team-Blacx](https://img.shields.io/badge/Github.com/Team--Blacx/Blacx--ddos-purple?style=for-the-badge&logo=hyper&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
 ![Alt text](https://github.com/user-attachments/assets/98ee0bc9-f0d6-4143-8382-242f8a6bc7a8)
 
 # **Blacx DDoS Tool** (Educational Purposes Only) [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)
@@ -6,7 +18,7 @@ Welcome to the **Blacx DDoS Tool**! This tool is designed for **educational purp
 
 ---
 
-## **Overview**
+![Overview](https://img.shields.io/badge/Overview-purple)
 
 The **Blacx DDoS Tool** simulates a **Distributed Denial-of-Service (DDoS)** attack by sending a large number of HTTP requests to a target server. It uses threading to simulate multiple devices making requests concurrently.
 
@@ -14,7 +26,7 @@ This tool is **only for educational purposes** and should **not** be used for an
 
 ---
 
-## **Features**
+![Features](https://img.shields.io/badge/Features-yellow)
 - **Multithreading**: Simulate multiple devices making requests.
 - **Cross-Platform**: Works on Windows and Linux operating systems.
 - **Hosts File Modification**: Optionally modifies the hosts file for testing purposes.
@@ -24,7 +36,7 @@ This tool is **only for educational purposes** and should **not** be used for an
 ---
 
 ![Supported Devices](https://img.shields.io/badge/Supported%20Devices-red)
-- **Operating Systems**: [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+- **Operating Systems**: [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 - **Minimum Hardware Requirements**:
   - 4 GB of RAM
   - Dual-core processor (or higher)
